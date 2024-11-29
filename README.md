@@ -1,1 +1,1 @@
-Homework projects from Software University
+Homework projects from Software University.
